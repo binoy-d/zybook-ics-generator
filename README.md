@@ -5,10 +5,15 @@ calendar apps such as Google Calendar.
 
 Usage:
 run py zy.py
+
 input url of textbook
+
 input email
+
 input password
+
 once output is done, check directory for calendar.ics file
+
 
 
 uses selenium, and ics
